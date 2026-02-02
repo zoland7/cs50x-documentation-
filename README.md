@@ -5,6 +5,7 @@ This repository serves as the primary source for documenting my journey through 
 
 ## Structure 
 lectures/ - Will include the summaries of each lecture 
+
 problem-sets/ - A breakdown of each problem set in order 
 
 ## Goals
